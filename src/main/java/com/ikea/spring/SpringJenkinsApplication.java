@@ -15,7 +15,7 @@ public class SpringJenkinsApplication {
 	@PostConstruct
 	public void init()
 	{
-		log.info("enters into init method");
+		log.info("enters into init methods");
 	}
 
 	public static void main(String[] args) {
